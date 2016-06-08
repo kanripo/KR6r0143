@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:28:58.683007
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:26
 #+TITLE: 辯正論
 #+PROPERTY: CBETA_ID T52n2110
 #+PROPERTY: ID KR6r0143
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 52, No. 2110
 #+PROPERTY: VOL 52
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0143_T_000-0489c>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0143_T_002-0497a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 辯正論卷第二¶
+辯正論卷第二¶
 ¶
 唐沙門釋法琳撰¶
 
-下
-:PROPERTIES:
-:head: 三教治道篇第二(下)
-:END:
-¶
+** 三教治道篇第二(下)¶
 
 公子問曰。竊覽道門齋法。略有二等。一者極¶
 道。二者濟度。極道者。洞神經云。心齋坐忘至¶
